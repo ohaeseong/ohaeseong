@@ -7,9 +7,9 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009118698253&ref=bookmarks)](https://www.facebook.com/profile.php?id=100009118698253&ref=bookmarks)
 
 <!--
-**ohaeseong/ohaeseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ohaeseong/ohaeseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profilㅇ
 
-　　　　　　　　　　[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohaeseong&langs_count=5&layout=compact)](https://github.com/ohaeseong)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohaeseong&langs_count=5&layout=compact)](https://github.com/ohaeseong)
 
 Here are some ideas to get you started:
 
