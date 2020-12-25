@@ -1,5 +1,5 @@
 ### ✨Welcom to my profile!✨
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohaeseong&layout=compact)](https://github.com/ohaeseong)
+
 ### 오해성 (O-HAESEONG)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gotjd2720@gmail.com)](mailto:gotjd2720@gmail.com)
