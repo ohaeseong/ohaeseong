@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning 
 - typescript, Redux, Redux saga, FLUX, context, webpack
 - typeorm, socket.io, AWS Lamda
-- Next.js, GraphQL
+- Next.js, GraphQL, Nest.js
 
 👋 I’m looking for help with
 - Docker
