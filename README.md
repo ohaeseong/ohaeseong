@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m currently learning 
-- typescript, Redux, Redux saga, FLUX, context, webpack
+- typescript, Redux, Redux saga, context, webpack
 - typeorm, socket.io, AWS Lamda
 - Next.js, GraphQL, Nest.js
 
