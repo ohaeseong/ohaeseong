@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 👋 I’m looking for help with
 - Docker
 - RN
+- flutter
 - python
 
 📫 How to reach me: gotjd2720@gmail.com
