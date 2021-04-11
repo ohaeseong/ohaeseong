@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```
 🌱 I’m currently learning 
 - typescript, Redux, Redux saga, context, webpack
 - typeorm, socket.io, AWS Lamda
@@ -30,6 +31,8 @@ Here are some ideas to get you started:
 - RN
 - flutter
 - python
+```
+
 
 📫 How to reach me: gotjd2720@gmail.com
 
