@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+> adsfasdfadsf
+> asdfasd
+ fad
+ fasdf
+ 
+
 ```
 🌱 I’m currently learning 
 - typescript, Redux, Redux saga, context, webpack
