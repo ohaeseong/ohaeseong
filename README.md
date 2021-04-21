@@ -1,45 +1,50 @@
-### ✨Welcom to my profile!✨
+이번에 Tech-blog 프로젝트를 진행하면서 velog처럼 markdown 기반의 블로그를 작성하기로 했습니다. 해당 프로젝트를 진행하면서 markdown rendering을 쉽고 간편하게 시켜주는 라이브러리를 찾게 되어 소개하고자 합니다.
 
-### 오해성 (O-HAESEONG)
+### react-markdown
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gotjd2720@gmail.com)](mailto:gotjd2720@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@alskt0419/)](https://velog.io/@alskt0419/)
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009118698253&ref=bookmarks)](https://www.facebook.com/profile.php?id=100009118698253&ref=bookmarks)
+markdown을 렌더링 시킬 프로젝트에서 react-markdown을 install 시켜줍니다.
+![](https://images.velog.io/images/alskt0419/post/1d0985dc-5909-466f-9bac-ee44eff7c852/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-01-10%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.26.01.png)
 
-<!--
-**ohaeseong/ohaeseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profilㅇ
+전부 install 받으셨으면 component 폴더에 MarkdownRenderer.tsx를 추가시켜 줍니다. (markdown render 컴포넌트를 따로 추가시켜 줘서 다른 곳에서도 재사용할 수 있도록 해줍니다.)
 
-Here are some ideas to get you started:
+![](https://images.velog.io/images/alskt0419/post/afe8ca6e-0d89-4550-a639-0f096768f8e2/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-01-10%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.25.02.png)
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 
+파일을 만드셨다면 우선, 기본적으로 데이터를 받아서 화면에 뿌려주기 이전에 markdown rendering이 작동 되는지 부터 확인해 봅시다.
 
-```
-🌱 I’m currently learning 
-- typescript, Redux, Redux saga, context, webpack
-- typeorm, socket.io, AWS Lamda
-- Next.js, GraphQL, Nest.js
+![](https://images.velog.io/images/alskt0419/post/1fa2b3be-6841-436b-8b38-5368e1cc0483/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-01-10%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.41.56.png)
 
-👋 I’m looking for help with
-- Docker
-- RN
-- flutter
-- python
-```
+아웃풋
 
+![](https://images.velog.io/images/alskt0419/post/302c95b0-49bb-4e6f-9902-386fa88beef6/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-01-10%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.41.23.png)
 
-📫 How to reach me: gotjd2720@gmail.com
+잘 작동합니다! (너무 쉽죠? ㅎㅎ)
 
+여기서 렌더링이 작동되지 않는 녀석(인용문, 배경색 ...)들이 있는데, 이 같은 경우 직접 렌더링 코드를 작성해 주어야 합니다. 또, 코드 블록이나 다른 녀석들의 스타일링을 직접 지정하고 싶은 경우에도 렌더링 코드를 작성해 주어서 스타일을 커스텀 할 수 있습니다. 우선, 글자 배경색부터 넣어보겠습니다.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ohaeseong&show_icons=true&hide_border=true)](https://github.com/ohaeseong)
+![](https://images.velog.io/images/alskt0419/post/401528be-bd8b-47e6-855f-9028e645fcd0/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-01-10%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.54.28.png)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ohaeseong&layout=compact)](https://github.com/ohaeseong)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohaeseong&langs_count=5&layout=compact)](https://github.com/ohaeseong)
+아웃풋
 
+![](https://images.velog.io/images/alskt0419/post/9e91250f-55d0-43b6-bbd4-7f23b2185493/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-01-10%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.55.04.png)
+
+이렇게 renderer 속성을 이용하여 별도의 렌더링 코드를 넣어줄 수 있습니다. [react-markdown 공식문서](https://github.com/remarkjs/react-markdown#node-types)를 참조하여 다른 녀석들의 렌더링 코드도 작성해 보도록 해보겠습니다.
+
+![](https://images.velog.io/images/alskt0419/post/971c3cd0-cf9d-4636-85b6-73deb858db3a/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-01-10%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2011.10.12.png)
+
+아웃풋
+
+![](https://images.velog.io/images/alskt0419/post/ee91a737-9574-4d03-9baa-cdf393332b9d/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-01-10%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2011.11.01.png)
+
+잘 작동합니다! 여기서 주의해야 할 점은 렌더링 코드 함수에 렌더링 시킬 string을 children으로 넘겨주고 value로 실제 값을 표시하는데, 중간에 인용문을 보시면 value 아닌 children 예약어를 사용해야 실제 값이 표시됩니다. (이유를 계속 찾아봤는데 왜인지는 모르겠네요 ㅜㅜ 아시는 분은 댓글 부탁드립니다!) 때문에 공식 문서를 보면서 해당 부분은 주의하셔야겠습니다.
+
+최종 적용 결과
+
+![](https://images.velog.io/images/alskt0419/post/57a9f77f-9710-4780-8899-0a445e6042cc/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-01-10%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2011.37.59.png)
+
+darkMode
+
+![](https://images.velog.io/images/alskt0419/post/d1069c9f-56a7-4f5c-b0af-3dfdd9232a76/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-01-10%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2011.38.29.png)
+
+저 같은 경우 한 파일 안에 코드 줄이 너무 길어지는 것 같아서 다른 파일을 따로 만들어, 한곳에서 관리하고 import 시켜서 사용하는 식으로 리팩토링 시켜주었습니다.
+
+그럼 여기서 포스팅을 마치겠습니다.
