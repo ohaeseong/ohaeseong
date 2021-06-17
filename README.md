@@ -1,5 +1,5 @@
 
-<center> ### ✨Welcom to my profile!✨ </center>
+
 
 ### 오해성 (O-HAESEONG)
 
