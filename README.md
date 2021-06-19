@@ -16,7 +16,6 @@
 
 👋 I’m looking for help with
 - Docker
-- RN
 - flutter
 - python
 ```
