@@ -9,15 +9,10 @@
 
 
 ```javascript
-🌱 I’m currently learning 
-- typescript, Redux, Redux saga, context, webpack
-- typeorm, socket.io, AWS Lamda
-- Next.js, GraphQL, Nest.js
 
-👋 I’m looking for help with
-- Docker
-- flutter
-- python
+console.log(ohaeseong);
+
+=> [web developer, react, next.js, express, node.js]
 ```
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ohaeseong&layout=compact)](https://github.com/ohaeseong)
