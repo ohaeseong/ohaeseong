@@ -10,7 +10,14 @@
 
 >javascript
 
-console.log(ohaeseong);
+🌱 I’m currently learning 
+- typescript, Redux, Redux saga, context, webpack
+- typeorm, socket.io, AWS Lamda
+- Next.js, GraphQL, Nest.js
+👋 I’m looking for help with
+- Docker
+- flutter
+- python
 
 > [web developer, react, next.js, express, node.js]
 
