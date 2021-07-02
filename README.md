@@ -8,7 +8,7 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009118698253&ref=bookmarks)](https://www.facebook.com/profile.php?id=100009118698253&ref=bookmarks)
 
 
-```
+```javascript
 🌱 I’m currently learning 
 - typescript, Redux, Redux saga, context, webpack
 - typeorm, socket.io, AWS Lamda
