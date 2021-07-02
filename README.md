@@ -12,7 +12,7 @@
 
 console.log(ohaeseong);
 
-=> [web developer, react, next.js, express, node.js]
+> [web developer, react, next.js, express, node.js]
 ```
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ohaeseong&layout=compact)](https://github.com/ohaeseong)
