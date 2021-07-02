@@ -10,7 +10,7 @@
 
 ```javascript
 
-console.log(ohaeseong);
+## console.log(ohaeseong);
 
 => [web developer, react, next.js, express, node.js]
 ```
