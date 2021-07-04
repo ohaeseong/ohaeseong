@@ -24,5 +24,7 @@
 
 ```
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ohaeseong&layout=compact)](https://github.com/ohaeseong)
 
+<p align="center">
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ohaeseong&layout=compact)](https://github.com/ohaeseong)
+</p>
