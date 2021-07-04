@@ -15,17 +15,15 @@
   
   
 🌱 Front-end
+  <br/>
+  
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=Emotion&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-component&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/Redux-Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/></a>
 
-  
- typescript, Redux, Redux saga, context, webpack
- typeorm, socket.io, AWS Lamda
- Next.js, GraphQL, Nest.js
-
+  <br />
 
 👋 I’m looking for help with
  Docker
