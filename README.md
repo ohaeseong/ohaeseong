@@ -9,20 +9,20 @@
 
 
 <div align="center" style="text-align:center">
-```
+
 
 🌱 I’m currently learning 
-- typescript, Redux, Redux saga, context, webpack
-- typeorm, socket.io, AWS Lamda
-- Next.js, GraphQL, Nest.js
+ typescript, Redux, Redux saga, context, webpack
+ typeorm, socket.io, AWS Lamda
+ Next.js, GraphQL, Nest.js
 
 
 👋 I’m looking for help with
-- Docker
-- flutter
-- python
+ Docker
+ flutter
+ python
 
-```
+
 </div>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ohaeseong&layout=compact)](https://github.com/ohaeseong)
