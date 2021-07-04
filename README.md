@@ -8,10 +8,14 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009118698253&ref=bookmarks)](https://www.facebook.com/profile.php?id=100009118698253&ref=bookmarks)
 
 
+
 <div align="center" style="text-align:center">
 
-
-🌱 I’m currently learning 
+## My Stack
+🌱 Front-end
+  <img src="https://img.shields.io/badge/ffffff?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
+  
+  
  typescript, Redux, Redux saga, context, webpack
  typeorm, socket.io, AWS Lamda
  Next.js, GraphQL, Nest.js
