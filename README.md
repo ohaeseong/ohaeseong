@@ -13,8 +13,8 @@
 
 ## My Stack
 🌱 Front-end
-  <img src="https://img.shields.io/badge/ffffff?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
-  
+  <img src="https://img.shields.io/badge/React-ffffff?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
+
   
  typescript, Redux, Redux saga, context, webpack
  typeorm, socket.io, AWS Lamda
