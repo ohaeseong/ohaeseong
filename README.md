@@ -13,7 +13,10 @@
 
 ## My Stack
 🌱 Front-end
-  <img src="https://img.shields.io/badge/React-red?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/React-#61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Next-red?style=flat-square&logo=React&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/React-red?style=flat-square&logo=React&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/React-red?style=flat-square&logo=React&logoColor=white"/></a>
 
   
  typescript, Redux, Redux saga, context, webpack
