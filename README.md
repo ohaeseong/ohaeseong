@@ -1,7 +1,7 @@
 
 
 <div align="center" style="text-align:center">
-## 오해성 (O-HAESEONG)
+  <h2> 오해성 (O-HAESEONG) </h2>
 </div>
 
 
