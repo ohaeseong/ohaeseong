@@ -23,7 +23,7 @@
    <img src="https://img.shields.io/badge/Redux-Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=Mobx&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-component&logoColor=white"/></a>
-      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=react-electron&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white"/></a>
   <br />
 
 👋 I’m looking for help with
