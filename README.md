@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON-Web-Tokens&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/AWS-EC2-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/AWS-EC2-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>
  <br />
    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/Redux-Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/></a>
