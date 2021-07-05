@@ -32,8 +32,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/AWS-EC2-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>
  <br />
-   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
-   <img src="https://img.shields.io/badge/Redux-Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=Mocha&logoColor=white"/></a>
+   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=Mobx&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-component&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white"/></a>
