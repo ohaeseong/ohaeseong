@@ -10,7 +10,7 @@
 
 ### ⚒️ My Stack ⚒️
   
-  
+  <br/>
 🖥️ Front-end
  <br/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>
