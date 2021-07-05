@@ -27,7 +27,6 @@
 <br />
 
 🕶️ Back-end
-
  <br/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON-Web-Tokens&logoColor=white"/></a>
