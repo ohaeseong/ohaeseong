@@ -43,3 +43,5 @@
  <br/>
  
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ohaeseong&layout=compact)](https://github.com/ohaeseong)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohaeseong&show_icons=true&theme=radical)
+
