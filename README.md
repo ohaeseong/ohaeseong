@@ -45,11 +45,8 @@
 </div>
 
  <br/>
+ <br/>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ohaeseong&layout=compact)](https://github.com/ohaeseong)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohaeseong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<a href="https://work-it.co.kr">go to my service</a>
-<a href="https://www.npmjs.com/package/@ohaeseong/react-progress-bar">my publish npm module</a>
 
