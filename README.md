@@ -12,7 +12,6 @@
   
   
 🖥️ Front-end
-  
  <br/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
@@ -25,7 +24,7 @@
    <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-component&logoColor=white"/></a>
    <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white"/></a>
 <br />
-
+<br/>
 🕶️ Back-end
  <br/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>
