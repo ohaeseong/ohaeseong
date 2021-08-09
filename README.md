@@ -1,6 +1,6 @@
 
 
-<div align="center" style="text-align:center">
+<div align="center" style="text-align:center"> 
   <h2> 오해성 (O-HAESEONG)  </h2>
 </div>
    
